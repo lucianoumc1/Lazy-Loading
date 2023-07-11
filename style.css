@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    box-sizing: border-box;
+    font-size: 62,5%;
+}
+body{
+    text-align: center;
+}
+body * {
+    padding: 1rem;
+}
+.image{
+    height: 200px;
+    width: auto;
+    padding: 0;
+    background: gray;
+}
